@@ -1,4 +1,4 @@
-var GasTokenRefundModule = artifacts.require("./GasTokenRefundModuleV1.sol");
+var GasTokenRefundModule = artifacts.require("./GasTokenRefundModuleV2.sol");
 
 module.exports = function(deployer) {
     deployer.deploy(GasTokenRefundModule).then(function (gasTokenRefundModule) {

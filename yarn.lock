@@ -23,6 +23,13 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@emilianobonassi/gas-saver@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@emilianobonassi/gas-saver/-/gas-saver-1.1.0.tgz#a0cbc098ccca6b9d0fd3a0559e29273dd08d9f33"
+  integrity sha512-bYQAOOTbVFFLUEuzOznC6rk6i0RQC2cXQ6x7tPyYE3QhX+llKLrgeUio9C+VgYP1ADwKf+cebHrKPv5b/SQjzA==
+  dependencies:
+    "@openzeppelin/contracts" "^2.5.0"
+
 "@gnosis.pm/safe-contracts@^1.1.1-dev.2":
   version "1.1.1-dev.2"
   resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-contracts/-/safe-contracts-1.1.1-dev.2.tgz#4a5b9a9befe66d15df87d2216237d4ea4f64118f"
@@ -35,10 +42,10 @@
     solc "0.5.14"
     truffle "^5.1.21"
 
-"@openzeppelin/contracts@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-3.0.1.tgz#2f327f77d16b43f14674086b2b634bda38cb0838"
-  integrity sha512-uSrD7hZ0ViuHGqHZbeHawZBi/uy7aBiNramXAt2dFFuSuoU4u9insS3V3zdVfOnYSPreUo636xSOuQIFN4//HA==
+"@openzeppelin/contracts@^2.5.0":
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-2.5.1.tgz#c76e3fc57aa224da3718ec351812a4251289db31"
+  integrity sha512-qIy6tLx8rtybEsIOAlrM4J/85s2q2nPkDqj/Rx46VakBZ0LwtFhXIVub96LXHczQX0vaqmAueDqNPXtbSXSaYQ==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"

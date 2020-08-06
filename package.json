@@ -4,8 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@emilianobonassi/gas-saver": "^1.1.0",
     "@gnosis.pm/safe-contracts": "^1.1.1-dev.2",
-    "@openzeppelin/contracts": "^3.0.1"
+    "@openzeppelin/contracts": "^2.5.0"
   },
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.0.35",
