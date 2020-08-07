@@ -1,4 +1,4 @@
-## GasTokenRefund Gnosis Safe Module
+<h1 align=center><code>Gas Saver Gnosis Safe Module</code></h1>
 
 A collection of smart contracts to save gas on Ethereum in a [Gnosis Safe Wallet](https://gnosis-safe.io/)
 leveraging [GST2](https://gastoken.io/) or [CHI](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3)
@@ -6,8 +6,8 @@ tokens
 
 ### Contract addresses
 
-GasTokenRefundModuleV1 (GST2) [0x789659de58350311f50c4c9ceefcdf8cdf8941d7](https://etherscan.io/address/0x789659de58350311f50c4c9ceefcdf8cdf8941d7)
-GasTokenRefundModuleV2 (CHI)  [0x8632963c81e5a4bb1f28ebeee6a70a1a92b0384b](https://etherscan.io/address/0x8632963c81e5a4bb1f28ebeee6a70a1a92b0384b)
+GasTokenRefundModuleV1 MasterCopy (GST2) [0x789659de58350311f50c4c9ceefcdf8cdf8941d7](https://etherscan.io/address/0x789659de58350311f50c4c9ceefcdf8cdf8941d7)
+GasTokenRefundModuleV2 MasterCopy (CHI)  [0x8632963c81e5a4bb1f28ebeee6a70a1a92b0384b](https://etherscan.io/address/0x8632963c81e5a4bb1f28ebeee6a70a1a92b0384b)
 
 ### How To Setup
 
