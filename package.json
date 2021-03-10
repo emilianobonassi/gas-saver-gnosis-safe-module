@@ -11,7 +11,7 @@
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.0.35",
     "dotenv": "^8.2.0",
-    "elliptic": "^6.5.3",
+    "elliptic": "^6.5.4",
     "lodash": "^4.17.19",
     "prettier": "^2.0.5",
     "prettier-plugin-solidity": "1.0.0-alpha.51",
