@@ -6,7 +6,7 @@
   "dependencies": {
     "@emilianobonassi/gas-saver": "^1.2.1",
     "@gnosis.pm/safe-contracts": "^1.1.1-dev.2",
-    "@openzeppelin/contracts": "^2.5.0"
+    "@openzeppelin/contracts": "^4.4.2"
   },
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.0.35",
